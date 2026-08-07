@@ -1,3 +1,23 @@
 #root {
-  color: red;
+  max-width: 1200px;
+  margin: auto;
+  font-family: Arial, sans-serif;
+  padding: 20px;
+}
+
+article {
+  border: 1px solid #ccc;
+  padding: 20px;
+  margin: 20px 0;
+  border-radius: 8px;
+}
+
+article img {
+  max-width: 300px;
+  width: 100%;
+  height: auto;
+}
+
+h1 {
+  text-align: center;
 }
